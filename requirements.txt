@@ -1,0 +1,4 @@
+opencv-python~=4.6.0.66
+mediapipe~=0.8.10
+djitellopy~=2.4.0
+numpy~=1.22.4

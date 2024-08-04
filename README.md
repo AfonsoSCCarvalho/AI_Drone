@@ -5,10 +5,6 @@
 </p>
 
 ## Overview
-This project utilize
-
-
-## Overview
 This project utilizes the DJI Tello drone and computer vision to implement pose recognition and tracking, enabling maneuvering through specific hand gestures. It's designed to allow users to interact with the drone using intuitive movements, enhancing the user experience and broadening the drone's practical applications.
 
 ## Features

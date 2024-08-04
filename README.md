@@ -1,8 +1,12 @@
 # AI Drone Project: Drone Pose Recognition and Maneuvering
 
 <p align="center">
-  <img src="Imgs/Ai_drone.png" alt="Ai_Drone">
+  <img src="Imgs/Ai_drone.png" alt="Ai drone logo" width="50%" height="auto">
 </p>
+
+## Overview
+This project utilize
+
 
 ## Overview
 This project utilizes the DJI Tello drone and computer vision to implement pose recognition and tracking, enabling maneuvering through specific hand gestures. It's designed to allow users to interact with the drone using intuitive movements, enhancing the user experience and broadening the drone's practical applications.

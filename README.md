@@ -1,7 +1,7 @@
 # AI Drone Project: Drone Pose Recognition and Maneuvering
 
 <p align="center">
-  <img src="Imgs/Ai_Drone.png" alt="Ai_Drone">
+  <img src="Imgs/Ai_drone.png" alt="Ai_Drone">
 </p>
 
 ## Overview

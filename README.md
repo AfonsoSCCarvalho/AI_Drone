@@ -1,7 +1,7 @@
-# AI Project: Drone Pose Recognition and Maneuvering
+# AI Drone Project: Drone Pose Recognition and Maneuvering
 
 <p align="center">
-  <img src="Imgs/AI_Drone.png" alt="AI Drone">
+  <img src="Imgs/Ai_Drone.png" alt="AI Drone">
 </p>
 
 ## Overview
@@ -21,8 +21,8 @@ pip install -r requirements.txt
 ### Installation
 Clone the repository to get started with the drone pose recognition and maneuvering:
 ```bash
-git clone https://github.com/yourusername/AI_Project_Drone.git
-cd AI_Project_Drone
+git clone https://github.com/AfonsoSCCarvalho/AI_Drone.git
+cd AI_Drone
 ```
 Running the Application
 To start the pose recognition and maneuvering choose one of the 1.X scripts (the 1.2 allows for real time video recording of the program, but it is slower in perfomance)
